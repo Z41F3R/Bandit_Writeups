@@ -6,11 +6,11 @@
 
 **Wargame de Linux y fundamentos de seguridad**
 
-![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-2ea44f?style=for-the-badge\&logo=linux\&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-2ea44f?style=for-the-badge&logo=linux&logoColor=white)
 ![Niveles](https://img.shields.io/badge/Niveles-33_completados-2ea44f?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Finalizado-gold?style=for-the-badge)
 
-*Documentación completa de los 33 niveles de Bandit.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=650&lines=Linux+%7C+Networking+%7C+Shell+%7C+Git;33+levels.+33+writeups.;Enumeration.+Analysis.+Resolution.;Learn+by+doing.)](https://git.io/typing-svg)
 
 [Writeups](levels/) · [OverTheWire](https://overthewire.org/wargames/bandit/)
 
