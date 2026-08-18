@@ -18,7 +18,7 @@
 
 ---
 
-## 🧩 Sobre el proyecto
+### 🧩 Sobre el proyecto
 
 [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) es un wargame orientado al aprendizaje práctico de **Linux, línea de comandos y fundamentos de seguridad**.
 
@@ -31,7 +31,7 @@ Cada writeup registra el proceso utilizado para resolver el desafío, incluyendo
 ---
 
 
-## 📊 Progreso
+### 📊 Progreso
 
 ```text
 Plataforma   : OverTheWire
@@ -48,7 +48,7 @@ Progreso
 
 ---
 
-## 🖥️ Áreas trabajadas
+### 🖥️ Áreas trabajadas
 
 | Área                  | Contenido                                              |
 | --------------------- | ------------------------------------------------------ |
@@ -63,7 +63,7 @@ Progreso
 
 ---
 
-## 🧭 Niveles completados
+### 🧭 Niveles completados
 
 La siguiente tabla permite recorrer los niveles de forma secuencial. Cada entrada enlaza directamente con su writeup.
 
@@ -105,7 +105,7 @@ La siguiente tabla permite recorrer los niveles de forma secuencial. Cada entrad
 
 ---
 
-## 📂 Estructura del repositorio
+### 📂 Estructura del repositorio
 
 ```text
 Bandit/
@@ -126,7 +126,7 @@ Bandit/
 
 ---
 
-## 📚 Cómo utilizar los writeups
+### 📚 Cómo utilizar los writeups
 
 > [!TIP]
 > Si estás realizando Bandit por tu cuenta, intenta resolver cada nivel antes de consultar la documentación. Utiliza los writeups como material de apoyo para revisar el proceso, comparar métodos y reforzar lo aprendido.
@@ -140,7 +140,7 @@ Los writeups permiten:
 - Reforzar conceptos de networking y shell.
 ---
 
-## 🔒 Seguridad y ética
+### 🔒 Seguridad y ética
 
 > [!WARNING]
 > Este repositorio tiene fines exclusivamente educativos. Todos los ejercicios documentados fueron realizados dentro del entorno autorizado de **OverTheWire Bandit**.
