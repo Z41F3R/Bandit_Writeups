@@ -153,10 +153,6 @@ Los writeups permiten:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=500&lines=33+%2F+33+niveles+completados.;Bandit+%5BFINALIZADO%5D.)](https://git.io/typing-svg)
 
-<br>
-
-<a href="#overthewire--bandit">
-  <kbd>⬆ Volver al inicio</kbd>
-</a>
+[Volver al inicio](#overthewire--bandit)
 
 </div>
