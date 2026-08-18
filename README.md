@@ -41,7 +41,7 @@ Cada writeup registra el proceso utilizado para resolver el desafío, incluyendo
 | Writeups   | **33**         |
 | Entorno    | Linux          |
 
-```text
+```python
 Progreso
 
 [████████████████████████████████████████] 100%
@@ -108,7 +108,7 @@ La siguiente tabla permite recorrer los niveles de forma secuencial. Cada entrad
 
 ## 🛠️ Herramientas utilizadas
 
-```bash
+```python
 $ tools
 
 Linux
