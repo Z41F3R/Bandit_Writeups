@@ -128,16 +128,16 @@ Bandit/
 
 ## 📚 Cómo utilizar los writeups
 
-Si estás realizando Bandit por tu cuenta, lo recomendable es intentar resolver cada nivel antes de consultar la documentación.
+> [!TIP]
+> Si estás realizando Bandit por tu cuenta, intenta resolver cada nivel antes de consultar la documentación. Utiliza los writeups como material de apoyo para revisar el proceso, comparar métodos y reforzar lo aprendido.
 
-Los writeups pueden utilizarse para:
+Los writeups permiten:
 
-* Repasar comandos de Linux.
-* Comprender técnicas de enumeración.
-* Comparar diferentes métodos de resolución.
-* Revisar herramientas utilizadas en CTF.
-* Reforzar conceptos de networking y shell.
-
+- Repasar comandos de Linux.
+- Comprender técnicas de enumeración.
+- Comparar diferentes métodos de resolución.
+- Revisar herramientas utilizadas en CTF.
+- Reforzar conceptos de networking y shell.
 ---
 
 ## 🔒 Seguridad y ética
