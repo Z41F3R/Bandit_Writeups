@@ -142,11 +142,10 @@ Los writeups permiten:
 
 ## 🔒 Seguridad y ética
 
-Este repositorio tiene fines exclusivamente educativos.
-
-Todos los ejercicios documentados fueron realizados dentro del entorno autorizado de **OverTheWire Bandit**.
-
-Las técnicas descritas aquí no deben utilizarse contra sistemas sin autorización explícita.
+> [!WARNING]
+> Este repositorio tiene fines exclusivamente educativos. Todos los ejercicios documentados fueron realizados dentro del entorno autorizado de **OverTheWire Bandit**.
+>
+> Las técnicas descritas aquí no deben utilizarse contra sistemas sin autorización explícita.
 
 ---
 
