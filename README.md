@@ -105,60 +105,6 @@ La siguiente tabla permite recorrer los niveles de forma secuencial. Cada entrad
 
 ---
 
-## 🛠️ Herramientas utilizadas
-
-```python
-$ tools
-
-Linux
-Bash
-SSH
-Netcat
-Nmap
-OpenSSL
-Git
-
-grep
-find
-strings
-file
-diff
-xxd
-gzip
-tar
-cron
-```
-
----
-
-## 🔬 Cómo están documentados los niveles
-
-Cada writeup mantiene una estructura sencilla para que la solución pueda seguirse y reproducirse dentro del entorno de Bandit.
-
-### Objetivo
-
-Se describe qué información debe encontrarse para avanzar al siguiente nivel.
-
-### Análisis
-
-Se revisa el entorno disponible y se determina qué información puede ser relevante.
-
-### Resolución
-
-Se muestran los comandos y técnicas utilizados para obtener el resultado.
-
-### Resultado
-
-Se documenta el hallazgo que permite continuar con el siguiente nivel.
-
-### Aprendizaje
-
-Se resumen los conceptos o herramientas más relevantes del desafío.
-
-> La documentación busca conservar el **proceso de resolución**, no solamente la respuesta final.
-
----
-
 ## 📂 Estructura del repositorio
 
 ```text
@@ -175,7 +121,8 @@ Bandit/
 └── README.md
 ```
 
-Cada archivo dentro de `levels/` corresponde a un nivel del wargame.
+> [!IMPORTANT]
+> Cada archivo dentro de `levels/` corresponde a un nivel del wargame.
 
 ---
 
@@ -205,8 +152,6 @@ Las técnicas descritas aquí no deben utilizarse contra sistemas sin autorizaci
 
 <div align="center">
 
-**33 / 33 niveles completados**
-
-[Volver al inicio](#over-the-wire--bandit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=500&lines=33+%2F+33+niveles+completados.;Bandit+%5BFINALIZADO%5D.)](https://git.io/typing-svg)
 
 </div>
