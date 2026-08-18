@@ -30,22 +30,21 @@ Cada writeup registra el proceso utilizado para resolver el desafío, incluyendo
 
 ---
 
+
 ## 📊 Progreso
 
-| Elemento   | Estado         |
-| ---------- | -------------- |
-| Plataforma | OverTheWire    |
-| Wargame    | Bandit         |
-| Niveles    | **33 / 33**    |
-| Estado     | **Finalizado** |
-| Writeups   | **33**         |
-| Entorno    | Linux          |
+```text
+Plataforma   : OverTheWire
+Wargame      : Bandit
+Niveles      : 33 / 33
+Estado       : Finalizado
+Writeups     : 33
+Entorno      : Linux
 
-```python
 Progreso
-
 [████████████████████████████████████████] 100%
 ```
+
 
 ---
 
